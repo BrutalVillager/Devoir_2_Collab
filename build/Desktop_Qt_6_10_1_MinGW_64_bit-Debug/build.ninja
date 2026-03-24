@@ -79,12 +79,6 @@ build CMakeFiles/devoir_2_collab.dir/pile.cpp.obj: CXX_COMPILER__devoir_2_collab
   OBJECT_DIR = CMakeFiles\devoir_2_collab.dir
   OBJECT_FILE_DIR = CMakeFiles\devoir_2_collab.dir
 
-build CMakeFiles/devoir_2_collab.dir/fonctions_random.cpp.obj: CXX_COMPILER__devoir_2_collab_unscanned_Debug C$:/Qt/devoir_2_collab/fonctions_random.cpp || cmake_object_order_depends_target_devoir_2_collab
-  DEP_FILE = CMakeFiles\devoir_2_collab.dir\fonctions_random.cpp.obj.d
-  FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\devoir_2_collab.dir
-  OBJECT_FILE_DIR = CMakeFiles\devoir_2_collab.dir
-
 
 # =============================================================================
 # Link build statements for EXECUTABLE target devoir_2_collab
@@ -93,7 +87,7 @@ build CMakeFiles/devoir_2_collab.dir/fonctions_random.cpp.obj: CXX_COMPILER__dev
 #############################################
 # Link the executable devoir_2_collab.exe
 
-build devoir_2_collab.exe: CXX_EXECUTABLE_LINKER__devoir_2_collab_Debug CMakeFiles/devoir_2_collab.dir/main.cpp.obj CMakeFiles/devoir_2_collab.dir/file.cpp.obj CMakeFiles/devoir_2_collab.dir/listeliee.cpp.obj CMakeFiles/devoir_2_collab.dir/listelieenoeud.cpp.obj CMakeFiles/devoir_2_collab.dir/pile.cpp.obj CMakeFiles/devoir_2_collab.dir/fonctions_random.cpp.obj
+build devoir_2_collab.exe: CXX_EXECUTABLE_LINKER__devoir_2_collab_Debug CMakeFiles/devoir_2_collab.dir/main.cpp.obj CMakeFiles/devoir_2_collab.dir/file.cpp.obj CMakeFiles/devoir_2_collab.dir/listeliee.cpp.obj CMakeFiles/devoir_2_collab.dir/listelieenoeud.cpp.obj CMakeFiles/devoir_2_collab.dir/pile.cpp.obj
   FLAGS = -DQT_QML_DEBUG -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\devoir_2_collab.dir
