@@ -155,3 +155,11 @@ void Pile::charger(std::string nomFichier){
         messageErreur = "Le fichier " + nomFichier +  " a été chargé";
     }
 }
+/*
+ * @brief Retourne le valeur où la pile est rendu.
+ * @return la valeur de la pile à ce moment.
+ */
+int Pile::pop(){
+    int index = maListe->getTaille();
+    return maListe->getElement(index-1);
+}

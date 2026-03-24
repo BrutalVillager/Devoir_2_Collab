@@ -106,3 +106,11 @@ bool File::erreurliste() {
     }
     return false;
 }
+/*
+ * @brief Retourne le valeur où la pile est rendu.
+ * @return la valeur de la pile à ce moment.
+ */
+int File::pop(){
+    int index = 0;
+    return liste->getElement(index);
+}

@@ -250,7 +250,21 @@ void testerPileFichier() {
     p3.charger("inexistant.json");
     afficherTest("hasErreur() == vrai si fichier inexistant", p3.hasErreur());
 }
-
+/*
+ * @brief teste de la nouvelle fonction pop.
+ */
+void testpop(){
+    File f;
+    Pile p;
+    p.ajouterElement(10);
+    p.ajouterElement(20);
+    p.ajouterElement(30);
+    f.ajouterElement(10);
+    f.ajouterElement(20);
+    f.ajouterElement(30);
+    cout << "la file est rendu à la valeur " << f.pop() << "\n";
+    cout << "La pile est rendu à la valeur " << p.pop() << "\n";
+}
 // Main
 
 int main() {
@@ -266,9 +280,11 @@ int main() {
     testerPileErreurs();
     testerPileFichier();
 
+
     cout << "\n=== Résultats ===" << endl;
     cout << "Réussis : " << testsReussis << endl;
     cout << "Échoués : " << testsEchoues << endl;
+    testpop();
 
     return 0;
 }

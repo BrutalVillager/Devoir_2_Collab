@@ -75,6 +75,11 @@ public:
     std::string getErreur();
 
     bool erreurliste();
+    /*
+     * @brief Retourne le valeur où la file est rendu.
+     * @return la valeur de la file à ce moment.
+     */
+    int pop();
 };
 
 #endif // FILE_H

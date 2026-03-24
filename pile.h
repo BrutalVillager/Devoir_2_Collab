@@ -121,6 +121,11 @@ public:
      * @return Une string décrivant l’erreur.
      */
     std::string getErreur();
+    /*
+     * @brief Retourne le valeur où la pile est rendu.
+     * @return la valeur de la pile à ce moment.
+     */
+    int pop();
 };
 
 #endif // PILE_H
