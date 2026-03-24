@@ -5,7 +5,7 @@ File::File() : erreur(false), messageErreur("") {
 }
 
 File::~File() {
-    delete liste;
+    delete liste; //delete  File [
     liste = nullptr;
 }
 

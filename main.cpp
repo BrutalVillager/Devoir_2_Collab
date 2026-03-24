@@ -139,9 +139,7 @@ void testerFileFichier() {
     afficherTest("hasErreur() == vrai si fichier inexistant", f3.hasErreur());
 }
 
-// ============================================================
 // Tests de la Pile
-// ============================================================
 
 /**
  * @brief Teste les opérations de base de la Pile (LIFO).
@@ -252,6 +250,13 @@ void testerPileFichier() {
 }
 
 // Main
+
+/**
+ * @brief Point d'entrée du programme.
+ *        Exécute tous les tests de la File et de la Pile
+ *        et affiche le nombre de tests réussis et échoués.
+ * @return 0 si le programme s'est terminé sans erreur.
+ */
 
 int main() {
     cout << "=== Jeu de tests : File et Pile ===" << endl;
