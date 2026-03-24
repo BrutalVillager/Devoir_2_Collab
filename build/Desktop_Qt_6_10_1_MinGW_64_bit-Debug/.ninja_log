@@ -1,25 +1,7 @@
 # ninja log v6
 39	187	7960227275778139	CMakeFiles/devoir_2_collab.dir/listelieenoeud.cpp.obj	5020414f87287cd2
-50	897	7960227275883611	CMakeFiles/devoir_2_collab.dir/pile.cpp.obj	8af6f16030c56f72
-18	905	7960227275569819	CMakeFiles/devoir_2_collab.dir/file.cpp.obj	ee1949ad3304a583
-8	1173	7960227275464482	CMakeFiles/devoir_2_collab.dir/main.cpp.obj	3575a3ebcf85e17a
-28	5684	7960227275664933	CMakeFiles/devoir_2_collab.dir/listeliee.cpp.obj	325e8fde3326a8ae
-56	648	7960229414609032	CMakeFiles/devoir_2_collab.dir/pile.cpp.obj	8af6f16030c56f72
-47	650	7960229414518633	CMakeFiles/devoir_2_collab.dir/file.cpp.obj	ee1949ad3304a583
 36	624	7960231416496412	CMakeFiles/devoir_2_collab.dir/pile.cpp.obj	8af6f16030c56f72
-625	2061	7960231422392571	devoir_2_collab.exe	4d46856ccd70369d
-39	979	7960235911579363	CMakeFiles/devoir_2_collab.dir/main.cpp.obj	3575a3ebcf85e17a
-980	2429	7960235920989777	devoir_2_collab.exe	4d46856ccd70369d
-37	932	7960238534412013	CMakeFiles/devoir_2_collab.dir/main.cpp.obj	3575a3ebcf85e17a
-934	2396	7960238543380365	devoir_2_collab.exe	4d46856ccd70369d
-43	931	7960240470696438	CMakeFiles/devoir_2_collab.dir/main.cpp.obj	3575a3ebcf85e17a
-933	2380	7960240479595556	devoir_2_collab.exe	4d46856ccd70369d
-37	898	7960240905751472	CMakeFiles/devoir_2_collab.dir/main.cpp.obj	3575a3ebcf85e17a
-899	2372	7960240914365480	devoir_2_collab.exe	4d46856ccd70369d
-45	912	7960241080401534	CMakeFiles/devoir_2_collab.dir/main.cpp.obj	3575a3ebcf85e17a
-914	2419	7960241089089359	devoir_2_collab.exe	4d46856ccd70369d
 81	984	7960553227573463	CMakeFiles/devoir_2_collab.dir/file.cpp.obj	ee1949ad3304a583
-72	1000	7960553227483445	CMakeFiles/devoir_2_collab.dir/main.cpp.obj	3575a3ebcf85e17a
-1000	2799	7960553236762390	devoir_2_collab.exe	4d46856ccd70369d
+28	5684	7960227275664933	CMakeFiles/devoir_2_collab.dir/listeliee.cpp.obj	325e8fde3326a8ae
 40	890	7960556243297687	CMakeFiles/devoir_2_collab.dir/main.cpp.obj	3575a3ebcf85e17a
 891	2315	7960556251795305	devoir_2_collab.exe	4d46856ccd70369d

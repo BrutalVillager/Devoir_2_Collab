@@ -11,7 +11,8 @@ add_executable(devoir_2_collab main.cpp
     listelieenoeud.cpp
     listelieenoeud.h
     json.hpp
-    pile.h pile.cpp)
+    pile.h pile.cpp
+    fonctions_random.cpp)
 
 include(GNUInstallDirs)
 install(TARGETS devoir_2_collab
